@@ -10,6 +10,9 @@ use App\Models\Product\Product;
  * @OA\Info(
  *    title="APIs For Aradan Server by AslanAsilon",
  *    version="1.0.0",
+ *    description = "
+ *         ![aradan_mysql1](https://github.com/aslan-asilon31/aradan_laravel_mysql/assets/116990574/47af96f9-94f6-4187-bd73-617b945479ca)
+ *   "
  * ),
  * @OA\Get(
  *    path="/api/product",

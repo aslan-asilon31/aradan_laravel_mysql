@@ -1,5 +1,6 @@
 # Aradan Laravel 10 Bootstrap
-![aradan_mysql](https://github.com/aslan-asilon31/aradan_laravel_mysql/assets/116990574/4a353fd2-8efc-4638-8811-8ae33868fd9f)
+![aradan_mysql1](https://github.com/aslan-asilon31/aradan_laravel_mysql/assets/116990574/47af96f9-94f6-4187-bd73-617b945479ca)
+
 
 
 ## Table of Contents ðŸ”¥
