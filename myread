@@ -2,3 +2,8 @@ src tutorial docker = https://www.youtube.com/watch?v=zmoqsUqbE0A
 
 
 dokumentasi API = https://www.youtube.com/watch?v=p3Z3RR091Wk
+
+
+===== when cannot push to github 
+after generate new token
+git remote set-url origin https://<token>@github.com/<username>/<repo>
